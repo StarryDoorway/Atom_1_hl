@@ -1,5 +1,10 @@
 # Atom_1_hl
 Look for the stable structure of Silicon atom
+python 3.8
+tensorflow 2.3
+gym 0.18.0
+记得注册环境atom.py
+
 
     Description:
         To find the structrue of low cost;
